@@ -781,8 +781,11 @@ hr{
     .skills-icon i{
         font-size: 70px;
     }
-
+    .contacts{
+        max-width: 90%;
+        font-size: 14px;
     }
+}
     @media screen and (max-width: 900px){
         .skills-icon i{
             font-size: 120px;
